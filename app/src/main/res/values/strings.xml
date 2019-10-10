@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bismillah</string>
+    <string name="destination_location">Lokasi Tujuan</string>
+    <string name="pick_up_from">Lokasi Awal</string>
+    <string name="price">Harga</string>
+    <string name="rp13_000">Rp13.000</string>
+    <string name="distance">Jarak</string>
+    <string name="_0_6_km">0.6 Km</string>
+    <string name="password">password</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="login">login</string>
+    <string name="todo">TODO</string>
+    <string name="register">register</string>
+    <string name="username">username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="todos">TODO</string>
+</resources>
